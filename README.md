@@ -27,3 +27,4 @@ In order to upgrade SparseArrays.jl to use a new release of SuiteSparse, the fol
 2. Update the SuiteSparse wrappers in SparseArrays.jl/gen and generate the new wrappers
 3. Run BumpStdlibs to update the SparseArrays.jl version in julia master
 4. Update the relevant stdlibs in Julia to pull in the new releases
+readme file 
